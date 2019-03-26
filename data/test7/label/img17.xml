@@ -14,13 +14,13 @@
 	<object>
 		<name>lamp</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>251</ymin>
-			<xmax>18</xmax>
-			<ymax>307</ymax>
+			<xmin>189</xmin>
+			<ymin>329</ymin>
+			<xmax>200</xmax>
+			<ymax>389</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>253</xmin>
-			<ymin>290</ymin>
-			<xmax>272</xmax>
-			<ymax>364</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>lamp</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>513</xmin>
-			<ymin>293</ymin>
-			<xmax>527</xmax>
-			<ymax>363</ymax>
+			<xmin>426</xmin>
+			<ymin>360</ymin>
+			<xmax>440</xmax>
+			<ymax>427</ymax>
 		</bndbox>
 	</object>
 </annotation>

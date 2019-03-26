@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test7</folder>
 	<filename>img22.jpg</filename>
-	<path>/home/link/Codes/RV-AutoAim-Data/data/test7/img22.jpg</path>
+	<path>/home/link/Codes/RV-AutoAim-Data/unused/test7/img22.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>283</xmin>
-			<ymin>380</ymin>
-			<xmax>299</xmax>
-			<ymax>464</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>lamp</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>481</xmin>
-			<ymin>380</ymin>
-			<xmax>490</xmax>
-			<ymax>438</ymax>
+			<xmin>112</xmin>
+			<ymin>374</ymin>
+			<xmax>133</xmax>
+			<ymax>442</ymax>
 		</bndbox>
 	</object>
 </annotation>

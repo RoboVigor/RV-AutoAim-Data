@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>275</ymin>
-			<xmax>76</xmax>
-			<ymax>333</ymax>
+			<xmin>213</xmin>
+			<ymin>324</ymin>
+			<xmax>227</xmax>
+			<ymax>385</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>302</xmin>
-			<ymin>321</ymin>
-			<xmax>318</xmax>
-			<ymax>397</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>lamp</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>577</xmin>
-			<ymin>328</ymin>
-			<xmax>593</xmax>
-			<ymax>402</ymax>
+			<xmin>451</xmin>
+			<ymin>356</ymin>
+			<xmax>464</xmax>
+			<ymax>420</ymax>
 		</bndbox>
 	</object>
 </annotation>
