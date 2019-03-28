@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test8</folder>
+	<filename>209.jpeg</filename>
+	<path>D:\my documents\important\RV\github\RV-AutoAim-Data\data\test8\209.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>699</ymin>
+			<xmax>360</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>563</xmin>
+			<ymin>722</ymin>
+			<xmax>577</xmax>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+</annotation>
