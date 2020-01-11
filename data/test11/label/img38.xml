@@ -1,0 +1,26 @@
+<annotation>
+	<folder>capture</folder>
+	<filename>img38.jpg</filename>
+	<path>C:\Users\15657\Desktop\capture\img38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pair1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>197</ymin>
+			<xmax>288</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
