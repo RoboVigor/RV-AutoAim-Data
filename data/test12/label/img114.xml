@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test12</folder>
 	<filename>img114.jpg</filename>
-	<path>C:\Users\Ivan\Desktop\test12\img114.jpg</path>
+	<path>C:\Users\cheng\Documents\WeChat Files\wxid_0iayn279kszt22\FileStorage\File\2020-01\test12\img114.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,54 @@
 			<ymin>279</ymin>
 			<xmax>890</xmax>
 			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>541</xmin>
+			<ymin>330</ymin>
+			<xmax>550</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>619</xmin>
+			<ymin>331</ymin>
+			<xmax>627</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>278</ymin>
+			<xmax>814</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>879</xmin>
+			<ymin>278</ymin>
+			<xmax>890</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 </annotation>

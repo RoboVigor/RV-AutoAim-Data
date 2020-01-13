@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test12</folder>
 	<filename>img158.jpg</filename>
-	<path>C:\Users\Tccoin\codes\RV-AutoAim\data\test12\img158.jpg</path>
+	<path>C:\Users\cheng\Documents\WeChat Files\wxid_0iayn279kszt22\FileStorage\File\2020-01\test12\img158.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,30 @@
 			<ymin>331</ymin>
 			<xmax>791</xmax>
 			<ymax>383</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>623</xmin>
+			<ymin>330</ymin>
+			<xmax>638</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>770</xmin>
+			<ymin>327</ymin>
+			<xmax>792</xmax>
+			<ymax>382</ymax>
 		</bndbox>
 	</object>
 </annotation>

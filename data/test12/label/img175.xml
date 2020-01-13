@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test12</folder>
 	<filename>img175.jpg</filename>
-	<path>C:\Users\Ivan\Desktop\test12\img175.jpg</path>
+	<path>C:\Users\cheng\Documents\WeChat Files\wxid_0iayn279kszt22\FileStorage\File\2020-01\test12\img175.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,30 @@
 			<ymin>294</ymin>
 			<xmax>666</xmax>
 			<ymax>318</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>595</xmin>
+			<ymin>295</ymin>
+			<xmax>603</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>657</xmin>
+			<ymin>294</ymin>
+			<xmax>666</xmax>
+			<ymax>316</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test19</folder>
+	<filename>img82.jpg</filename>
+	<path>C:\Users\CPNel\Documents\WeChat Files\zyxzyx0116\FileStorage\File\2020-01\test19\img82.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>389</ymin>
+			<xmax>588</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>689</xmin>
+			<ymin>387</ymin>
+			<xmax>711</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>
